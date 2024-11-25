@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi👋, I’m 👨‍💻 Mohamed Ashraf Esmail AbdElwahab
 
-<!--
-**mohamedashraf1012/mohamedashraf1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Data Scientist | Machine Learning Engineer
 
-Here are some ideas to get you started:
+🌟 I am a data scientist, actively honing my skills and expertise in this dynamic field. I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming & Analysis: Python (Pandas, NumPy, Scikit-learn, etc.), Excel-based data analysis
+Database Management: SQL
+Machine Learning & Deep Learning: Model development, training, and optimization
+Visualization: Power BI and data visualization tools
+🎯 I am committed to continuous learning and excellence, aiming to secure opportunities for professional growth where I can apply my skills effectively to achieve significant outcomes. Let’s connect and create impactful solutions together!
+📫 How to reach me: [Gmail](mailto:mm2588905@gmail.com)
+
+**Connect with me:**  
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](http://www.linkedin.com/in/mohamed-ashraf-a51002265) [![Kaggle](https://www.kaggle.com/static/images/site-logo.png)](https://www.kaggle.com/mohamedashraf1012)
