@@ -10,6 +10,9 @@
 
 🎯 I am committed to continuous learning and excellence, aiming to secure opportunities for professional growth where I can apply my skills effectively to achieve significant outcomes.  
 
-📫 **Let’s connect and create impactful solutions together!**
-[![Gmail](https://images.app.goo.gl/e6DsN1JLDYdzxcq18)(mailto:m.ashraf2002.ma@gmail.com)]
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](http://www.linkedin.com/in/mohamed-ashraf-a51002265) [![Kaggle](https://www.kaggle.com/static/images/site-logo.png)](https://www.kaggle.com/mohamedashraf1012)
+📫 **Let’s connect and create impactful solutions together!**  
+
+### To Reach Me:
+- [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:m.ashraf2002.ma@gmail.com)  
+- [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](http://www.linkedin.com/in/mohamed-ashraf-a51002265)  
+- [![Kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)](https://www.kaggle.com/mohamedashraf1012)
