@@ -4,8 +4,8 @@
 
 🌟 I am a data scientist, actively honing my skills and expertise in this dynamic field. I specialize in:
 
-Programming & Analysis: Python (Pandas, NumPy, Scikit-learn, etc.), Excel-based data analysis
-Database Management: SQL
+Programming & Analysis: Python (Pandas, NumPy, Scikit-learn, etc.), 
+Excel-based data analysis database Management: SQL
 Machine Learning & Deep Learning: Model development, training, and optimization
 Visualization: Power BI and data visualization tools
 🎯 I am committed to continuous learning and excellence, aiming to secure opportunities for professional growth where I can apply my skills effectively to achieve significant outcomes. Let’s connect and create impactful solutions together!
